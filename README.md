@@ -58,6 +58,17 @@ Le projet est entièrement statique : il fonctionne en ouvrant simplement le fic
 
 Pour la configuration détaillée, consultez aussi `SUPABASE_SETUP.md`.
 
+## Sources des questions
+
+Le mode français privilégie une banque de questions en français inspirée de la logique de gg-quizz et de la base communautaire francophone.
+
+Les questions sont utilisées comme base locale pour garder un gameplay cohérent en français et éviter les mélanges avec des questions en anglais issues d’API tierces.
+
+Crédits :
+- gg-quizz — projet communautaire de quiz en français, utilisé comme inspiration et base de sélection pour la banque FR
+- questions personnalisées ajoutées dans le navigateur pour compléter et ajuster la base locale
+- Open Trivia DB reste un fallback optionnel uniquement pour le mode anglais
+
 ## Questions personnalisées
 
 Le projet supporte une bibliothèque locale de questions que vous pouvez modifier directement depuis l’interface.
