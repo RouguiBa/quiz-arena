@@ -1,5 +1,7 @@
 # Quiz Arena — démarrage gratuit
-
+ 
+ https://rouguiba.github.io/quiz-arena/
+ 
 Jeu de quiz web en français inspiré des duels de trivia : interface sombre/violette, 7 questions, 10 secondes par question, score basé sur la rapidité, question finale doublée, questions intégrées, récupération facultative depuis Open Trivia DB et ajout/import/export de questions locales.
 
 ## Fichiers
