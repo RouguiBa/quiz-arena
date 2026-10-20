@@ -1,0 +1,5 @@
+[
+  {"category":"Harry Potter","q":"Comment s'appelle l'école de sorcellerie fréquentée par Harry Potter ?","a":["Poudlard","Beauxbâtons","Durmstrang","Ilvermorny"],"correct":0},
+  {"category":"Harry Potter","q":"Quel est le prénom du meilleur ami roux de Harry ?","a":["Neville","Ron","Drago","Cedric"],"correct":1},
+  {"category":"Culture générale","q":"Quelle est la capitale du Sénégal ?","a":["Bamako","Conakry","Dakar","Abidjan"],"correct":2}
+]
